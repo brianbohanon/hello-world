@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2132F31A-4B14-4009-A175-5EA449CE4E04}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{36AC5DC9-1B0B-4296-A0EB-762FF6C32847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36AC5DC9-1B0B-4296-A0EB-762FF6C32847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36AC5DC9-1B0B-4296-A0EB-762FF6C32847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36AC5DC9-1B0B-4296-A0EB-762FF6C32847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36AC5DC9-1B0B-4296-A0EB-762FF6C32847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

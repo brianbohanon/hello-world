@@ -1,3 +1,3 @@
 # hello-world
 
-Changing the README
+Simple dotnet core Hello World! console app
